@@ -1,2 +1,2 @@
-# soting_techn
+# sorting_techn
 Testing repository
