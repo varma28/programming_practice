@@ -34,10 +34,9 @@ int main()
 
 	traverse(head);
 
-	std * tmp = locate(head,3);
-
-	if(tmp)
-		printf("The student name is %s\n",tmp->name);
+//	std * tmp = locate(head,3);
+//	if(tmp)
+//		printf("The student name is %s\n",tmp->name);
 	
 	  
 

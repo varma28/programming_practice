@@ -48,7 +48,7 @@ std * locate(std * m,int p)
 			dummy = dummy->next;
 	}
 
-	printf("The is no storage related to the given key value\n");
+	printf("There is no storage related to the given key value or roll number\n");
 	return NULL;
 }
 
