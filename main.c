@@ -4,9 +4,10 @@ int main()
 {
 	int i;
 	node *head = NULL,*new = NULL,*last = NULL,*temp = NULL;
-	printf("Choose 1 for enque \n2 for deque\n 3 for exit\n");
+	printf("Choose 1 for push \n2 for pop\n 3 for exit\n");
+	printf("Enter the i value: ");
 	scanf("%d",&i);
-
+	printf("\n");
 	while(1){
 		switch(i)
 		{
@@ -53,6 +54,7 @@ int main()
 		}
 		if(i == 3)
 			break;
+		printf("Enter i value :");
 		scanf("%d",&i);
 	}						
 
