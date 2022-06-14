@@ -58,6 +58,8 @@ std * locate(std * m,int p)
 std * reverse(std * m)
 {
 	std * dummy = m;
+
+	
 	
 }
 
